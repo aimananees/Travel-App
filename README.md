@@ -9,7 +9,7 @@ An app that access the current location and provides the basic information a per
 
 ### Features:
 
-#### About: About- gives a list of rules and regulations followed by a city.
+#### About: gives a list of rules and regulations followed by a city.
 
 <img src="https://cloud.githubusercontent.com/assets/16516636/16828506/e6e17b5a-49ad-11e6-9872-750007c71aa6.png" width="300">
 
