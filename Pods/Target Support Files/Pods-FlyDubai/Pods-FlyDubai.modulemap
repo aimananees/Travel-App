@@ -1,0 +1,6 @@
+framework module Pods_FlyDubai {
+  umbrella header "Pods-FlyDubai-umbrella.h"
+
+  export *
+  module * { export * }
+}

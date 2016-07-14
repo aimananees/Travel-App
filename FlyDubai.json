@@ -1,0 +1,27 @@
+{
+    "FlyDubai": {
+        
+        "City1":
+        {
+            "id": 1,
+            "name": "Hyderabad",
+            "about": "Points to Note:\n\n 1.Don't overload your plate, you are expected to finish everything.\n2.Remove your shoes when entering someone's home, even if they tell you it is all right to wear your shoes.\n 3.It is almost never all right.Smoking is prohibited in public buses, elevators, theaters, cinemas, air-conditioned restaurants, shopping centers and government offices.\n4.Don't take photograph without permission.",
+            "helpline": "Important Numbers:\nPolice:100\nAmbulance: 102\nFire: 101\nPolice Control Room: 23232222\nChild Line: 1098\nTourist Information: 1363",
+            "explore":"Places to visit:\n\n Salar Jung Museum\nGolconda Fort\nNehru Zoological Garden\nCharminar\nJagannath Temple\nRamoji Film City\nHussain Sagar\nMecca Masjid\nLumbini Park andFalaknuma Palace",
+            "offers":"Offers:\nMaqdooms(50% Offer on Suits)\nBigBazaar(Buy 1 and get 1 free on select items)\nRS.Brothers(Ashadam sale)"
+            
+        },
+        "City2":
+        
+        {
+            "id": 2,
+            "name": "Dubai",
+            "about": "Points to Note:\n\n1.It is also not appropriate for men to go around without a top on away from the beach.\n2.Do not take any photographs of any local residents without permission.\n3.If you have broken the law, then you will be arrested and taken to police station, questioned and instructed to make a statement.\n4.If you are caught driving with any level of alcohol in your blood expect a jail sentence.",
+            "helpline": "Important Numbers:\nPolice: 999\nFire Department: 997\nAmbulance: 999\nTourist Security Department of Dubai Police: 800-4438",
+            "explore":"Places to visit:\n\nBurj Khalifa\nBur Dubai\nThe Dubai Mall\nPalm Jumeirah\nDubai Creek\nDubai Marina\nAl Fahidi Historical Neighbourhood\nMadinat Jumeirah and Ski Dubai",
+            "offers":"Offers:\nJunaids'J(20% off on select items)\nMitsubishi(uy a Mitsubishi Pajero starting AED 89,900 and pay in 2017)\nHugo Boss(Select items for 40% to 50% off)"
+            
+        }
+    }
+    
+}
